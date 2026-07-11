@@ -1,0 +1,105 @@
+Level 1 (1-20) - Basic Array & String Problems
+Remove duplicates from an array (without Set).
+Reverse an array (without reverse()).
+Reverse a string (without reverse()).
+Find the second largest number.
+Find the largest number.
+Find the smallest number.
+Check if a string is a palindrome.
+Check if a number is a palindrome.
+Count vowels in a string.
+Count occurrences of each character.
+Find the missing number in an array.
+Move all zeros to the end.
+Find duplicate elements.
+Merge two arrays.
+Remove a specific element from an array.
+Find the frequency of every element.
+Rotate an array by k positions.
+Check whether two strings are anagrams.
+Find the first non-repeating character.
+Find the longest word in a sentence.
+Level 2 (21-40) - Arrays & Objects
+Flatten a nested array (without flat()).
+Implement Array.prototype.map().
+Implement Array.prototype.filter().
+Implement Array.prototype.reduce().
+Group objects by a property.
+Sort an array without sort().
+Find the intersection of two arrays.
+Find the union of two arrays.
+Find the difference between two arrays.
+Chunk an array into groups.
+Remove falsy values from an array.
+Deep clone an object.
+Merge two objects.
+Compare two objects.
+Convert an object to an array.
+Convert an array to an object.
+Find the most frequent element.
+Find all pairs with a given sum.
+Find all triplets with a given sum.
+Find the longest consecutive sequence.
+Level 3 (41-60) - Closures & Functions
+Create a counter using a closure.
+Implement once().
+Implement memoize().
+Implement debounce().
+Implement throttle().
+Implement bind().
+Implement call().
+Implement apply().
+Implement new.
+Currying.
+Infinite currying.
+Compose functions.
+Pipe functions.
+Retry a promise.
+Promise.all().
+Promise.race().
+Promise.any().
+Promise.allSettled().
+Sleep function.
+Sequential promise execution.
+Level 4 (61-80) - Interview Favorites
+LRU Cache.
+Custom EventEmitter.
+Deep equality checker.
+Deep freeze.
+Flatten an object.
+Unflatten an object.
+Convert nested JSON into a flat object.
+Remove duplicate objects.
+Find circular references.
+Build your own setTimeout().
+Build your own setInterval().
+Implement a Queue.
+Implement a Stack.
+Queue using two stacks.
+Stack using two queues.
+LRU using Map.
+Build a calculator.
+Parse a query string.
+Serialize an object.
+Deserialize JSON.
+Level 5 (81-100) - Real MERN Interview Questions
+Pagination logic.
+Infinite scroll logic.
+Search with debounce.
+Shopping cart logic.
+Todo app state management.
+Like/Unlike toggle.
+OTP input component logic.
+File upload progress logic.
+Drag-and-drop list reordering.
+Chat message grouping by date.
+Build a nested comments system.
+Build a tree from flat data.
+Flatten a tree.
+Generate unique IDs.
+Rate limiter.
+Task scheduler.
+Cache API responses.
+Build a mini Redux store.
+Build a mini React Hook (useState-like).
+Build a mini Router.
